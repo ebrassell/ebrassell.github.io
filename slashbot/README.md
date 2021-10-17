@@ -1,4 +1,4 @@
-# slashbot
+# [slashbot](https://github.com/ebrassell/slashbot)
 Slashbot makes it easy to create Slack slash commands using AWS Lambda functions. These can be handy for creating a secure way to execute automated tasks, even from a mobile device. Perfect for developing "chatops" type applications.
 
 Features:
